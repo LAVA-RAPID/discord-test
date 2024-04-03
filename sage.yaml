@@ -1,0 +1,13 @@
+name: "gt-discord-test"
+version: "0.1.0"
+description: "Testing Discord Webhook at the edge"
+keywords: ""
+authors: "Giorgio Tran"
+collaborators: ""
+funding: ""
+license: ""
+homepage: ""
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"
